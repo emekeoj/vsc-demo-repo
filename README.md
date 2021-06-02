@@ -1,2 +1,2 @@
 # vsc-demo-repo
-demo for vsc git 
+demo for vsc git! 
